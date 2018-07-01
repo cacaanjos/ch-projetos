@@ -2,7 +2,7 @@ body {
     background-color: #9b9b9b;
     padding: 45px;
     font-family: 'Roboto', sans-serif;
-    -webkit-font-smoothing: antialiased;
+    ::-webkit-font-smoothing: antialiased;
     font-size: 13px;
     font-weight: 400;
 }
